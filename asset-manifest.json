@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/gentlemans-league/static/css/main.a617e044.chunk.css",
-    "main.js": "/gentlemans-league/static/js/main.3baa6f87.chunk.js",
-    "main.js.map": "/gentlemans-league/static/js/main.3baa6f87.chunk.js.map",
-    "runtime-main.js": "/gentlemans-league/static/js/runtime-main.0d0fe6b6.js",
-    "runtime-main.js.map": "/gentlemans-league/static/js/runtime-main.0d0fe6b6.js.map",
-    "static/js/2.cd208769.chunk.js": "/gentlemans-league/static/js/2.cd208769.chunk.js",
-    "static/js/2.cd208769.chunk.js.map": "/gentlemans-league/static/js/2.cd208769.chunk.js.map",
-    "static/js/3.fad46355.chunk.js": "/gentlemans-league/static/js/3.fad46355.chunk.js",
-    "static/js/3.fad46355.chunk.js.map": "/gentlemans-league/static/js/3.fad46355.chunk.js.map",
+    "main.css": "/gentlemans-league/static/css/main.2448f39b.chunk.css",
+    "main.js": "/gentlemans-league/static/js/main.8e92b1d5.chunk.js",
+    "main.js.map": "/gentlemans-league/static/js/main.8e92b1d5.chunk.js.map",
+    "runtime-main.js": "/gentlemans-league/static/js/runtime-main.92a54646.js",
+    "runtime-main.js.map": "/gentlemans-league/static/js/runtime-main.92a54646.js.map",
+    "static/js/2.2f1a70d4.chunk.js": "/gentlemans-league/static/js/2.2f1a70d4.chunk.js",
+    "static/js/2.2f1a70d4.chunk.js.map": "/gentlemans-league/static/js/2.2f1a70d4.chunk.js.map",
+    "static/js/3.d04cd95e.chunk.js": "/gentlemans-league/static/js/3.d04cd95e.chunk.js",
+    "static/js/3.d04cd95e.chunk.js.map": "/gentlemans-league/static/js/3.d04cd95e.chunk.js.map",
     "index.html": "/gentlemans-league/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/gentlemans-league/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.cd208769.chunk.js.LICENSE.txt": "/gentlemans-league/static/js/2.cd208769.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/gentlemans-league/static/media/logo.6ce24c58.svg"
+    "static/css/main.2448f39b.chunk.css.map": "/gentlemans-league/static/css/main.2448f39b.chunk.css.map",
+    "static/js/2.2f1a70d4.chunk.js.LICENSE.txt": "/gentlemans-league/static/js/2.2f1a70d4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d0fe6b6.js",
-    "static/js/2.cd208769.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.3baa6f87.chunk.js"
+    "static/js/runtime-main.92a54646.js",
+    "static/js/2.2f1a70d4.chunk.js",
+    "static/css/main.2448f39b.chunk.css",
+    "static/js/main.8e92b1d5.chunk.js"
   ]
 }
