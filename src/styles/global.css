@@ -1,9 +1,15 @@
-@import 'https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css';
-
 .App {
-	color: white;
+	color: #fff;
 	background-color: #282c34;
 	min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+	color: #fff;
 }
 
 .App-logo {
